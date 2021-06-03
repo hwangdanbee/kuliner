@@ -173,9 +173,9 @@ a{text-decoration: none;}
 #service .wrap .title p{font-size: 16px; color:#555;}
 
 #service .wrap .cont{font-size: 0;}
-#service .wrap .cont .box{display: inline-block; width: 360px; height: 360px; background-color: #ffeeee; margin: 0 10px; border-radius:8px; padding: 40px; vertical-align: top; font-size: 16px; }
+#service .wrap .cont .box{display: inline-block; width: 360px; height: 360px; background-color: #fff; margin: 0 10px; border-radius:8px; padding: 40px; vertical-align: top; font-size: 16px; }
 
-#service .wrap .cont .box:hover{transform:scale(1.2); box-shadow: 0 0 8px #ff9999;  transition:transform 1.5s, box-shadow 1.5s;
+#service .wrap .cont .box:hover{transform:scale(1.2); box-shadow: 0 0 8px #fff;  transition:transform 1.5s, box-shadow 1.5s;
     /*box-shadow:2px 2px 4px #ffff00, -2px -2px 4px #ff0000;*/
 }
 /*
